@@ -1,7 +1,7 @@
 ## Development of algorithm for classification smoking status from unstructured bilingual electronic health records based on natural language processing
 
 ### Introduction
-- This repository contains keywords extracted from the paper "Development of algorithm for classification smoking status from unstructured bilingual electronic health records based on natural language processing"
+- This repository contains smoking-related keywords extracted in the paper "Development of algorithm for classification smoking status from unstructured bilingual electronic health records based on natural language processing"
 - For more information about the work, please refer to [our paper](https://preprints.jmir.org/preprint/26978) or feel free to contact the corresponding author.
 
 ### Contents
@@ -14,11 +14,13 @@
 ### Number of keywords
 
 |**# of keywords**| **Never Smoker** | **Past Smoker** | **Current Smoker**|
-|-----:| :------------- | :----------: | -----------: |
+|-----:| :----------: | :--------: | :--------: |
 |**Total**|  11 | 63   | 159 |
-|**English**|6  | 33 | Like this \| |
-|**Korean**| 3| 25 | test|
-|**Mixed**| 2 | 5 | test|
+|**English**|6  | 33 | 36 |
+|**Korean**| 3| 25 | 89|
+|**Mixed**| 2 | 5 | 34|
+
+- 12 keywords belong to both past smoker and current smoker classes ('positive pyr', 'p y', 'pack yrs', 'yo ppd', '넘게 갑', '계속 갑', '개피 x', 'p yr', '일에 갑', '담배 를', '대부터', '년전 ppd')
 
 ### Acknowledgments
 
