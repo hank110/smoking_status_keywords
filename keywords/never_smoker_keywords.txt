@@ -1,0 +1,11 @@
+비흡연
+s negative
+never
+흡연 negative
+smoking negative
+smk never
+원래 하지
+smk negative
+negative 원래
+하지 않음
+never smoker

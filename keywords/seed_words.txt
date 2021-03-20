@@ -1,0 +1,50 @@
+s negative,1
+never,1
+흡연 negative,1
+smoking negative,1
+smk never,1
+비흡연,1
+원래 하지,1
+smk negative,1
+negative 원래,1
+하지 않음,1
+never smoker,1
+ex,2
+quit,2
+smk ex,2
+금연,2
+ya quit,2
+금연 유지,2
+금연 중,2
+s ex,2
+ex smoker,2
+ex quit,2
+yo yr,2
+negative quit,2
+quit p,2
+quit ya,2
+quit 음주,2
+smoker ya,2
+흡연 positive,3
+ppd,3
+s positive,3
+담배,3
+갑,3
+smoking,3
+current smoker,3
+smk yr,3
+흡연,3
+smk,3
+smk positive,3
+smoker,3
+smk ppd,3
+흡연 p,3
+개비,3
+한갑,3
+반갑,3
+하루 갑,3
+positive ppd,3
+갑 년,3
+피운다,3
+smoking positive,3
+current,3
