@@ -2,8 +2,15 @@
 
 - This repository contains keywords extracted from the paper "Development of algorithm for classification smoking status from unstructured bilingual electronic health records based on natural language processing"
 
-| Column 1       | Column 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
 
+## Number of keywords
+
+|| **Never Smoker** | **Past Smoker**     | **Current Smoker**     |
+|| :------------- | :----------: | -----------: |
+|Total|  Cell Contents | More Stuff   | And Again    |
+|English| You Can Also   | Put Pipes In | Like this \| |
+|Korean| | | |
+
+
+## Acknowledgments
+This research was supported by a grant no 04-2019-0250 from the Seoul National University Hospital Research Fund.
