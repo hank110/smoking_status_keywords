@@ -5,12 +5,11 @@
 
 ## Number of keywords
 
-|| **Never Smoker** | **Past Smoker**     | **Current Smoker**     |
-|| :------------- | :----------: | -----------: |
-|Total|  Cell Contents | More Stuff   | And Again    |
-|English| You Can Also   | Put Pipes In | Like this \| |
-|Korean| | | |
-
+|**Types**| **Never Smoker** | **Past Smoker** | **Current Smoker**|
+|-----:| :------------- | :----------: | -----------: |
+|**Total**|  Cell Contents | More Stuff   | And Again    |
+|**English**| You Can Also   | Put Pipes In | Like this \| |
+|**Korean**| test| test| test|
 
 ## Acknowledgments
 This research was supported by a grant no 04-2019-0250 from the Seoul National University Hospital Research Fund.
