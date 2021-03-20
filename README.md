@@ -13,11 +13,12 @@
 
 ### Number of keywords
 
-|**#**| **Never Smoker** | **Past Smoker** | **Current Smoker**|
+|**# of keywords**| **Never Smoker** | **Past Smoker** | **Current Smoker**|
 |-----:| :------------- | :----------: | -----------: |
-|**Total**|  Cell Contents | More Stuff   | And Again    |
-|**English**| You Can Also   | Put Pipes In | Like this \| |
-|**Korean**| test| test| test|
+|**Total**|  11 | 63   | 159 |
+|**English**|6  | 33 | Like this \| |
+|**Korean**| 3| 25 | test|
+|**Mixed**| 2 | 5 | test|
 
 ### Acknowledgments
 
