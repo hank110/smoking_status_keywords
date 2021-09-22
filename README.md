@@ -2,7 +2,7 @@
 
 ### Introduction
 - This repository contains smoking-related keywords extracted in the paper "Development of algorithm for classification smoking status from unstructured bilingual electronic health records based on natural language processing"
-- For more information about the work, please refer to [our paper](https://preprints.jmir.org/preprint/26978) or feel free to contact the corresponding author.
+- For more information about the work, please refer to [our paper](https://www.mdpi.com/2076-3417/11/19/8812/htm) or feel free to contact the corresponding author.
 
 ### Contents
 - ```seed_words.txt``` : a list of keywords used as initial seed inputs. It is delimited by ,. The number that follows after the comma represents the label of the initial seed keywords (1=never smoker, 2=past smoker, 3=current smoker).
